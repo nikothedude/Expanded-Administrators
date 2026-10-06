@@ -1,0 +1,21 @@
+{	
+	#"adminHireTier0":5000,
+	"adminHireTier1":40000,
+	"adminHireTier2":60000, # need to keep for backwards comp for now
+	"adminHireTier3":80000, # need to keep for backwards comp for now
+	"adminHireTier4":100000, # need to keep for backwards comp for now
+	"adminHireTier5":150000, # need to keep for backwards comp for now
+	#"adminSalaryTier0":2500,
+	"adminSalaryTier1":10000,
+	"adminSalaryTier2":30000, # need to keep for backwards comp for now
+	"adminSalaryTier3":40000, # need to keep for backwards comp for now
+	"adminSalaryTier4":50000, # need to keep for backwards comp for now
+	"adminSalaryTier5":60000, # need to keep for backwards comp for now
+	#"idleAdminSalaryMult":0.1,
+}
+
+
+
+
+
+

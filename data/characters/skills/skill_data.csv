@@ -1,0 +1,11 @@
+id,name,order,tier,reqPoints,reqPointsPerExtraSkill,description,author,combat officer,admiral,admin,tags,icon
+zoeyea_low_expectations,Low Expectations,501,1,0,,What do you mean get a job? The job market's all smoke and mirrors these days.,Anonymous Freelance Administrator,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
+zoeyea_industrial_zoning,Industrial Zoning,502,3,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
+zoeyea_fleet_logistics,Fleet Logistics,503,2,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
+zoeyea_ground_operations,Ground Operations,504,2,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
+zoeyea_orbital_operations,Orbital Operations,505,2,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
+zoeyea_luddic_faithful,Luddic Faithful,506,3,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
+zoeyea_quality_control,Quality Control,507,2,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
+zoeyea_rapid_construction,Rapid Construction,508,2,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
+zoeyea_reckless_production,Profit Maximizing,509,3,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
+zoeyea_safety_protocols,Safety Protocols,510,2,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png

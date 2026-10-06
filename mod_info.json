@@ -1,0 +1,25 @@
+{
+  "id": "zoeyea", #Mod ID, should be lowercase
+  "name": "Expanded Administrators", #Display Name
+  "author": "Zoey", 
+  "utility": false,
+  "version": "1.0.0",
+  "description": "Adds more skills to planetary administrators.",
+  "gameVersion": "0.98a-RC8",
+  "jars": [ "jars/zoeyea.jar" ],
+  "modPlugin": "zoeyea.ExpandedAdministratorsModPlugin",
+  "dependencies": [
+    {
+      "id": "lw_lazylib",
+      "name": "LazyLib"
+    },
+    {
+      "id": "MagicLib",
+      "name": "MagicLib"
+    },
+	{
+      "id": "lunalib",
+      "name": "LunaLib"
+    },
+  ],
+}
