@@ -63,7 +63,7 @@ class OrbitalOperations {
                 5f,
                 Misc.getPositiveHighlightColor(),
                 "${PATROL_SPAWN_MULT}x"
-            )
+            ).color = Misc.getHighlightColor()
         }
     }
 

@@ -1,11 +1,19 @@
 id,name,order,tier,reqPoints,reqPointsPerExtraSkill,description,author,combat officer,admiral,admin,tags,icon
-zoeyea_low_expectations,Low Expectations,501,1,0,,What do you mean get a job? The job market's all smoke and mirrors these days.,Anonymous Freelance Administrator,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
-zoeyea_industrial_zoning,Industrial Zoning,502,3,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
-zoeyea_fleet_logistics,Fleet Logistics,503,2,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
-zoeyea_ground_operations,Ground Operations,504,2,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
-zoeyea_orbital_operations,Orbital Operations,505,2,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
-zoeyea_luddic_faithful,Luddic Faithful,506,3,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
-zoeyea_quality_control,Quality Control,507,2,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
-zoeyea_rapid_construction,Rapid Construction,508,2,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
-zoeyea_reckless_production,Profit Maximizing,509,3,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
-zoeyea_safety_protocols,Safety Protocols,510,2,0,,???,???,,,TRUE,npc_only,graphics/icons/skills/weapon_drills.png
+zoeyea_low_expectations,Low Expectations,501,1,0,,What do you mean get a job? The job market's all smoke and mirrors these days.,Anonymous Freelance Administrator,,,TRUE,"npc_only, deprecated",graphics/icons/markets/luddic_site.png
+zoeyea_industrial_zoning,Compact Zoning,502,3,0,,You think you can just slap an extractor anywhere and call it a day? There's processes to this! Processes!,"Alex Mikhael, Ops Chief, Cruor",,,TRUE,npc_only,graphics/icons/skills/surveying.png
+zoeyea_fleet_logistics,Interstellar Logistics,503,2,0,,"See, traders are a lot like moths. You just got to shine the light reaaaal bright, like this, and...","Lila Rose, Portmaster",,,TRUE,npc_only,graphics/icons/skills/fleet_logistics.png
+zoeyea_ground_operations,Ground Operations,504,2,0,,"We stand so they may sleep. We fight so they may live.
+We are the shield, the sword, and we will persist in their stead.","Corporal Jeng-Hao, hegemony marine",,,TRUE,npc_only,graphics/icons/skills/planetary_ops.png
+zoeyea_orbital_operations,Orbital Operations,505,2,0,,"Only children are scared by the red-orange-blue of our engine plumes.
+Once you age, you realize the black is to be feared - because then, we are gone.",Anonymous fleet commander,,,TRUE,npc_only,graphics/icons/skills/space_ops.png
+zoeyea_luddic_faithful,Luddic Faithful,506,3,0,,"The shepard extended her arms to the flock, and announced, ""Come, come!""
+And so they came, all of them, even the doubters. And before them they faced a banquet, a forest, an apple tree, and a smile...","Book of Ludd, Verse 23:9",,,TRUE,npc_only,graphics/icons/markets/luddic_site.png
+zoeyea_quality_control,Quality Control,507,2,0,,You simply cannot beat the best.,Unknown Culann Starworks Official,,,TRUE,npc_only,graphics/icons/skills/makeshift_equipment.png
+zoeyea_rapid_construction,Rapid Construction,508,2,0,,"""Oh, you can't do that, because of safety, because of budget, because-""
+(Sound of something thumping, a sigh) Ever been hounded by starving scavs? Yeah. Talk to me about safety then.","Unknown maintenance worker, thanatos colony collapse interview",,,TRUE,npc_only,graphics/icons/skills/reliability_engineering.png
+zoeyea_reckless_production,Profit Maximizing,509,3,0,,"...in this chapter of ""Profit Maximizing Strategies For The Simple And Sharp Minded"", we will introduce you to one critical concept...
+Synergy!",Excerpt from Tri-Tachyon economics booklet,,,TRUE,npc_only,graphics/icons/skills/colony_management.png
+zoeyea_safety_protocols,Safety Protocols,510,2,0,,"Twenty three. That's a statistic. But that makes up nearly three hundred grieving relatives, friends... and those lost lives. 
+I won't let this happen again.","Administrator Xao, post-mine collapse interview",,,TRUE,npc_only,graphics/icons/skills/safety_procedures.png
+zoeyea_damage_control,Damage Mitigation,511,2,0,,"You learn or thing or two, spendin' ten cycles as the chief engineer of a battleship. Like where they're gonna hit, what's gonna blow up first, and most importantly?
+What you gotta do.","Ex-Administrator Capascin, Ragnar Complex",,,TRUE,npc_only,graphics/icons/skills/damage_control.png

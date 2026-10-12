@@ -14,7 +14,7 @@ import zoeyea.skills.FleetLogistics.Companion.SLIPSTREAM_DETECTION_RADIUS_MULT
 class GroundOperations {
 
     companion object {
-        const val GROUND_DEFENSE_INCR = 300f
+        const val GROUND_DEFENSE_INCR = 500f
         const val STABILITY_INCR = 1f
     }
 
@@ -61,7 +61,7 @@ class GroundOperations {
                 "Increases stability by %s",
                 5f,
                 Misc.getPositiveHighlightColor(),
-                "${STABILITY_INCR.toInt()}x"
+                "${STABILITY_INCR.toInt()}"
             ).color = Misc.getHighlightColor()
         }
     }

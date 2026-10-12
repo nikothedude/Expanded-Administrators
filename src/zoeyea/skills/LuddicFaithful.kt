@@ -17,7 +17,7 @@ import zoeyea.skills.IndustrialZoning.Companion.INDUSTRY_INCR
 class LuddicFaithful {
 
     companion object {
-        const val ACCESS_INCR = 0.5f
+        const val ACCESS_INCR = 0.3f
         const val STABILITY_INCR = 3f
         const val GROUND_DEFENSE_INCR = 50f
     }

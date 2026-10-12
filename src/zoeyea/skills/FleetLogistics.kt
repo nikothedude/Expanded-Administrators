@@ -12,7 +12,7 @@ import com.fs.starfarer.api.util.Misc
 class FleetLogistics {
 
     companion object {
-        const val ACCESS_INCR = 0.5f
+        const val ACCESS_INCR = 0.3f
         const val SLIPSTREAM_DETECTION_RADIUS_MULT = 2f
     }
 
@@ -53,7 +53,7 @@ class FleetLogistics {
                 "Increases accessibility by %s",
                 0f,
                 Misc.getPositiveHighlightColor(),
-                "${ACCESS_INCR.toInt()}%"
+                "${(ACCESS_INCR * 100f).toInt()}%"
             ).color = Misc.getHighlightColor()
 
             info.addPara(

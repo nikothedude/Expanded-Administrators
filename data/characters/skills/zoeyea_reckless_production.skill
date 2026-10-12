@@ -9,6 +9,7 @@
 			"effectBasedOnLevel":false,
 			"effects":[
 				{"type":"GOVERNED_OUTPOST", "script":"zoeyea.skills.RecklessProduction$LevelOne"},
+				{"type":"CHARACTER_STATS", "script":"zoeyea.skills.RecklessProduction$LevelOne"},
 			]
 		},
 	],

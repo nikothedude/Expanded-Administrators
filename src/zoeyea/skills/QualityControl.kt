@@ -99,7 +99,7 @@ class QualityControl {
             fleet: CampaignFleetAPI?,
             inflater: FleetInflater?
         ) {
-            markets.retainAll { it.size >= 3f && it.admin?.stats?.hasSkill("zea_quality_control") == true }
+            markets.retainAll { it.size >= 3f && it.admin?.stats?.hasSkill("zoeyea_quality_control") == true }
 
             // UNHOLY CODE
             if (fleet == null || inflater == null) return

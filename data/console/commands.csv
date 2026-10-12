@@ -1,0 +1,2 @@
+command,class,tags,syntax,help
+ZEA_addAdmin,zoeyea.console.AddAdmin,campaign,ZEA_addAdmin (level),"Adds a new admin of the provided level, or random if none is given."
