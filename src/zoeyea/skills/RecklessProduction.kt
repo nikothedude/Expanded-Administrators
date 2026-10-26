@@ -16,7 +16,7 @@ class RecklessProduction {
     companion object {
         const val HAZARD_INCR = 0.25f
         const val STABILITY_MALUS = 1f
-        const val IND_PROD_INCR = 3f
+        const val IND_PROD_INCR = 2f
     }
 
     class LevelOne: BaseSkillEffectDescription(), CharacterStatsSkillEffect, MarketSkillEffect {
@@ -80,7 +80,7 @@ class RecklessProduction {
                 "Decreases stability by %s",
                 5f,
                 Misc.getNegativeHighlightColor(),
-                "${-STABILITY_MALUS.toInt()}"
+                "${STABILITY_MALUS.toInt()}"
             ).color = Misc.getHighlightColor()
         }
     }

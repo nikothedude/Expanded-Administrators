@@ -7,10 +7,10 @@
 	"adminHireTier5":150000, # need to keep for backwards comp for now
 	#"adminSalaryTier0":2500,
 	"adminSalaryTier1":10000,
-	"adminSalaryTier2":30000, # need to keep for backwards comp for now
-	"adminSalaryTier3":40000, # need to keep for backwards comp for now
-	"adminSalaryTier4":50000, # need to keep for backwards comp for now
-	"adminSalaryTier5":60000, # need to keep for backwards comp for now
+	"adminSalaryTier2":20000,
+	"adminSalaryTier3":30000,
+	"adminSalaryTier4":40000,
+	"adminSalaryTier5":50000,
 	#"idleAdminSalaryMult":0.1,
 }
 

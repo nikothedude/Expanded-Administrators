@@ -3,6 +3,7 @@ package zoeyea
 import com.fs.starfarer.api.BaseModPlugin
 import com.fs.starfarer.api.Global
 import zoeyea.listeners.ColonyListener
+import zoeyea.listeners.SalvageAdminLevelIncreaser
 
 class ExpandedAdministratorsModPlugin : BaseModPlugin() {
     /*This method is run right at the end of starsectors loading.
@@ -19,6 +20,7 @@ class ExpandedAdministratorsModPlugin : BaseModPlugin() {
     * like adding star systems to an existing save if the mod was just added. */
     override fun onGameLoad(newGame: Boolean) {
         Global.getSector().listenerManager.addListener(ColonyListener(), true)
+        Global.getSector().addTransientListener(SalvageAdminLevelIncreaser())
     }
 
     /*Runs when a save is created.
