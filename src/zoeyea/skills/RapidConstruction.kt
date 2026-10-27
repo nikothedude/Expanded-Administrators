@@ -47,7 +47,7 @@ class RapidConstruction {
                     delete()
                     return
                 }
-                if (!market.admin.stats.hasSkill("zea_rapid_construction")) {
+                if (!market.admin.stats.hasSkill("zoeyea_rapid_construction")) {
                     delete()
                     return
                 }

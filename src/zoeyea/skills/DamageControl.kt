@@ -48,7 +48,7 @@ class DamageControl {
                     delete()
                     return
                 }
-                if (!market.admin.stats.hasSkill("zea_damage_control")) {
+                if (!market.admin.stats.hasSkill("zoeyea_damage_control")) {
                     delete()
                     return
                 }

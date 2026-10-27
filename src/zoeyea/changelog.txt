@@ -1,3 +1,7 @@
+1.0.1
+
+Fixes a few bugs I didnt realize
+
 1.0.0
 
 Initial

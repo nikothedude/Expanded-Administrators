@@ -29,7 +29,7 @@ class OrbitalOperations {
             if (market == null) return
             if (id == null) return
 
-            market.stats.dynamic.getStat(Stats.COMBAT_FLEET_SPAWN_RATE_MULT).modifyFlat(id, PATROL_SPAWN_MULT, "Orbital Operations")
+            market.stats.dynamic.getStat(Stats.COMBAT_FLEET_SPAWN_RATE_MULT).modifyFlat(id, PATROL_SPAWN_MULT - 1f, "Orbital Operations")
             market.stats.dynamic.getMod(Stats.COMBAT_FLEET_SIZE_MULT).modifyFlat(id, FLEET_SIZE_INCR, "Orbital Operations")
 
             return
