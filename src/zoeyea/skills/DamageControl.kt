@@ -64,8 +64,6 @@ class DamageControl {
                         iterInd.setDisrupted(MAX_DAYS)
                         // check each ind once on first iter? if disrupted, skip til its not?
                     }
-
-                    iterInd.buildProgress += days * (SPEED_MULT / 2f)
                 }
             }
         }
