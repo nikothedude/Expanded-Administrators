@@ -3,9 +3,9 @@
   "name": "Expanded Administrators", #Display Name
   "author": "Zoey", 
   "utility": false,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Adds more skills to planetary administrators, and increases their levels. Additionally, adjusts salary values.",
-  "gameVersion": "0.98a-RC8",
+  "gameVersion": "0.98.5a-RC4",
   "jars": [ "jars/zoeyea.jar" ],
   "modPlugin": "zoeyea.ExpandedAdministratorsModPlugin",
   "dependencies": [
